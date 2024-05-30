@@ -14,8 +14,8 @@ function App() {
         padding: 10,
         marginTop: 10
         }}>
-        <p style={{fontSize: 200}}>
-          Hello!.
+        <p style={{fontSize: 150}}>
+          Rajib Bhie, Thank You!
           </p>
         <button style={{
           backgroundColor: 'black', 
