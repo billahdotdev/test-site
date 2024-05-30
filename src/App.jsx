@@ -15,7 +15,7 @@ function App() {
         marginTop: 10
         }}>
         <p style={{fontSize: 200}}>
-          It's ME!
+          Rajib Bhie, Thank You!
           </p>
         <button style={{
           backgroundColor: 'black', 
