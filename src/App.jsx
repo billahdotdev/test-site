@@ -7,32 +7,28 @@ function App() {
   return (
     <>
       <div style={{
-        backgroundColor: '#FFEA00', 
+        backgroundColor: 'darkgreen', 
         border: 2, borderRadius: 10, 
         textAlign: 'center', 
         margin: 10,
         padding: 10,
         marginTop: 10
         }}>
-<<<<<<< HEAD
-        <p style={{fontSize: 150}}>
-=======
-        <p style={{fontSize: 200}}>
->>>>>>> 61d977f3037981e1007271a7fbf077f01d24ba8d
+        <p style={{fontSize: 150, color: 'white' }}>
           Rajib Bhie, Thank You!
           </p>
         <button style={{
-          backgroundColor: 'black', 
-          color: '#FFEA00', 
+          backgroundColor: 'white', 
+          color: 'darkgreen', 
           margin: 10, 
           padding: 10,
           width: 100,
           height: 70,
-          fontSize: 20,
+          fontSize: 15,
           
 
           }}>
-          Click Here
+          Party Tommorow!
         </button>
       </div>
     </>
