@@ -14,7 +14,11 @@ function App() {
         padding: 10,
         marginTop: 10
         }}>
+<<<<<<< HEAD
         <p style={{fontSize: 150}}>
+=======
+        <p style={{fontSize: 200}}>
+>>>>>>> 61d977f3037981e1007271a7fbf077f01d24ba8d
           Rajib Bhie, Thank You!
           </p>
         <button style={{
