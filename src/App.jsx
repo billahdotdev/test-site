@@ -15,7 +15,7 @@ function App() {
         marginTop: 10
         }}>
         <p style={{fontSize: 150, color: 'white' }}>
-          Rajib Bhie, Thank You!
+          hello
           </p>
         <button style={{
           backgroundColor: 'white', 
@@ -28,7 +28,7 @@ function App() {
           
 
           }}>
-          Party Tommorow!
+          Let's Talk!
         </button>
       </div>
     </>
