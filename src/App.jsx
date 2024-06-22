@@ -15,7 +15,7 @@ function App() {
         marginTop: 10
         }}>
         <p style={{fontSize: 150, color: 'white' }}>
-          hello
+          hello, HELLO
           </p>
         <button style={{
           backgroundColor: 'white', 
