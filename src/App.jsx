@@ -12,7 +12,7 @@ function App() {
                     borderRadius: 10,
                     textAlign: 'center',
                     margin: 10,
-                    padding: 10,
+                    padding: 11,
                     marginTop: 10,
                 }}>
                 <p style={{ fontSize: 150, color: 'white' }}>hello!</p>
