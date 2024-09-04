@@ -26,7 +26,7 @@ function App() {
                         height: 70,
                         fontSize: 15,
                     }}>
-                    Let's Click!!
+                    Click!!
                 </button>
             </div>
         </>
