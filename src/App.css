@@ -3,6 +3,9 @@
     padding: 0;
     background-color: rgb(100, 253, 192);
     color: rgb(2, 146, 88);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p {
@@ -11,7 +14,4 @@ p {
 
 .profilePhoto {
     border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
 }
