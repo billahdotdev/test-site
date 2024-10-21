@@ -8,3 +8,8 @@
 p {
     color: rgb(179, 215, 255);
 }
+.profilePhoto {
+    border-radius: 50 px;
+    border: none;
+    text-align: center;
+}
