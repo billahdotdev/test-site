@@ -6,7 +6,7 @@ function App() {
     return (
         <>
             <dib>
-                <img class="profilePhoto" src="src/images/masumBillah1.jpg" />
+                <img class="profilePhoto" src="/images/masumBillah1.jpg" />
                 <h1>It's me!</h1>
                 <h2>
                     I'm a full-stack web developer dedicated to making online
