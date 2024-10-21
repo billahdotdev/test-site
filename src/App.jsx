@@ -7,6 +7,10 @@ function App() {
         <>
             <dib>
                 <h1>It's me!</h1>
+                <h3>
+                    I'm a full-stack web developer dedicated to making online
+                    dreams a reality.
+                </h3>
                 <p>
                     The standard Lorem Ipsum passage, used since the 1500s
                     "Lorem ipsum dolor sit amet, consectetur adipiscing elit,
