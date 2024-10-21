@@ -6,10 +6,10 @@
 }
 
 p {
-    color: rgb(179, 215, 255);
+    color: rgb(229, 238, 248);
 }
+
 .profilePhoto {
-    border-radius: 50 px;
-    border: none;
-    text-align: center;
+    border-radius: 50%;
+    margin: auto;
 }
